@@ -10,3 +10,6 @@ C:\kepuli\consoleClicker\ConsoleClikker\obj\Debug\ConsoleClikker.pdb
 C:\kepuli\consoleClicker\ConsoleClikker\bin\Debug\ConsoleClikker.exe
 C:\kepuli\consoleClicker\ConsoleClikker\bin\Debug\ConsoleClikker.pdb
 C:\kepuli\consoleClicker\ConsoleClikker\obj\Debug\ConsoleClikker.csprojResolveAssemblyReference.cache
+C:\kepuli\ConsoleClikker\bin\Debug\ConsoleClikker.exe.config
+C:\kepuli\ConsoleClikker\obj\Debug\ConsoleClikker.exe
+C:\kepuli\ConsoleClikker\obj\Debug\ConsoleClikker.pdb

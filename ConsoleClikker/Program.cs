@@ -12,7 +12,8 @@ namespace ConsoleApplication3 {
             const string eiTarpeeksiKekseja = "sinulla ei ole tarpeeksi keksejä";
 
             Console.WriteLine("COOKIE CLIKKER");
-            Console.WriteLine("--------------------------------------");
+            Console.WriteLine("-------------------------------------- ");
+            Console.WriteLine("secaucusmuutos 10:15");
             Console.WriteLine("grandmama maksaa 100");
             Console.WriteLine("farmi maksaa 500");
             Console.WriteLine("minor upgrade maksaa 20.000");
