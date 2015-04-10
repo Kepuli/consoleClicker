@@ -44,6 +44,7 @@
     <Compile Include="absalom.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="terror2.cs" />
     <Compile Include="Tilanne.cs" />
     <Compile Include="View.cs" />
   </ItemGroup>
