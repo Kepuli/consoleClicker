@@ -37,5 +37,13 @@ namespace ConsoleClikker {
                 return x >= 100;
             }
         }
+
+        internal string TeeGrandmama() {
+            korotus++;
+            x = x - 100;
+            y = y + 1;
+
+            return "sinulla on nyt yksi uusi grandmama";
+        }
     }
 }

@@ -9,6 +9,8 @@ namespace ConsoleApplication3 {
     class Program {
         static void Main(string[] args) {
 
+            const string eiTarpeeksiKekseja = "sinulla ei ole tarpeeksi keksejä";
+
             Console.WriteLine("COOKIE CLIKKER");
             Console.WriteLine("--------------------------------------");
             Console.WriteLine("grandmama maksaa 100");
@@ -30,12 +32,19 @@ namespace ConsoleApplication3 {
             do {
                 string kirj = Console.ReadLine();
                 if (kirj == "grandmama") {
+                    //if (tilanne.x >= 100) {
+                    //    Console.WriteLine("sinulla on nyt yksi uusi grandmama");
+                    //    tilanne.korotus++;
+                    //    tilanne.x = tilanne.x - 100;
+                    //    tilanne.y = tilanne.y + 1;
+                    //} else Console.WriteLine("sinulla ei ole tarpeeksi keksejä");
+
                     if (tilanne.GrandmamaSallittu) {
-                        Console.WriteLine("sinulla on nyt yksi uusi grandmama");
-                        tilanne.korotus++;
-                        tilanne.x = tilanne.x - 100;
-                        tilanne.y = tilanne.y + 1;
-                    } else Console.WriteLine("sinulla ei ole tarpeeksi keksejä");
+                        string ilmoitus = tilanne.TeeGrandmama();
+                        Console.WriteLine(ilmoitus);
+
+                    } else Console.WriteLine(eiTarpeeksiKekseja);
+
                 }
                 if (kirj == "farm") {
                     if (tilanne.x >= 500) {
