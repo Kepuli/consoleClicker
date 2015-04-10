@@ -1,0 +1,6 @@
+c:\users\kingpin\documents\visual studio 2012\Projects\Clikker\ConsoleClikker\bin\Debug\ConsoleClikker.exe.config
+c:\users\kingpin\documents\visual studio 2012\Projects\Clikker\ConsoleClikker\bin\Debug\ConsoleClikker.exe
+c:\users\kingpin\documents\visual studio 2012\Projects\Clikker\ConsoleClikker\bin\Debug\ConsoleClikker.pdb
+c:\users\kingpin\documents\visual studio 2012\Projects\Clikker\ConsoleClikker\obj\Debug\ConsoleClikker.csprojResolveAssemblyReference.cache
+c:\users\kingpin\documents\visual studio 2012\Projects\Clikker\ConsoleClikker\obj\Debug\ConsoleClikker.exe
+c:\users\kingpin\documents\visual studio 2012\Projects\Clikker\ConsoleClikker\obj\Debug\ConsoleClikker.pdb
