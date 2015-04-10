@@ -4,3 +4,9 @@ c:\users\kingpin\documents\visual studio 2012\Projects\Clikker\ConsoleClikker\bi
 c:\users\kingpin\documents\visual studio 2012\Projects\Clikker\ConsoleClikker\obj\Debug\ConsoleClikker.csprojResolveAssemblyReference.cache
 c:\users\kingpin\documents\visual studio 2012\Projects\Clikker\ConsoleClikker\obj\Debug\ConsoleClikker.exe
 c:\users\kingpin\documents\visual studio 2012\Projects\Clikker\ConsoleClikker\obj\Debug\ConsoleClikker.pdb
+C:\kepuli\consoleClicker\ConsoleClikker\bin\Debug\ConsoleClikker.exe.config
+C:\kepuli\consoleClicker\ConsoleClikker\obj\Debug\ConsoleClikker.exe
+C:\kepuli\consoleClicker\ConsoleClikker\obj\Debug\ConsoleClikker.pdb
+C:\kepuli\consoleClicker\ConsoleClikker\bin\Debug\ConsoleClikker.exe
+C:\kepuli\consoleClicker\ConsoleClikker\bin\Debug\ConsoleClikker.pdb
+C:\kepuli\consoleClicker\ConsoleClikker\obj\Debug\ConsoleClikker.csprojResolveAssemblyReference.cache
