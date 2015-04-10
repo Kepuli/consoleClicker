@@ -31,5 +31,11 @@ namespace ConsoleClikker {
             butterKaytetty = false;
             korotus = 1;
         }
+
+        public bool GrandmamaSallittu {
+            get {
+                return x >= 100;
+            }
+        }
     }
 }

@@ -30,7 +30,7 @@ namespace ConsoleApplication3 {
             do {
                 string kirj = Console.ReadLine();
                 if (kirj == "grandmama") {
-                    if (tilanne.x >= 100) {
+                    if (tilanne.GrandmamaSallittu) {
                         Console.WriteLine("sinulla on nyt yksi uusi grandmama");
                         tilanne.korotus++;
                         tilanne.x = tilanne.x - 100;
